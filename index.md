@@ -1,4 +1,4 @@
-# Maxim Zelikman's First CS193 Homework
+# Maxim Zelikman's First CS 193 Homework
 
 - I like that we get to learn more about GitHub in CS 193
 - I like that it will expose me to important tools
